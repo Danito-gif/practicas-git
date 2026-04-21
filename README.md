@@ -11,3 +11,6 @@ Soy estudiante de informática con interés en sistemas, redes y desarrollo.
 
 ## Hobbies
 Gaming, tecnología y aprender Linux.
+
+## Objetivo
+Aprender Git y GitHub profesionalmente.
